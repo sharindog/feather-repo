@@ -6,5 +6,24 @@
   "description": "Public IPA catalog for Feather",
   "iconURL": "https://raw.githubusercontent.com/claration/feather/main/Images/Feather.png",
   "website": "https://github.com/sharindog/feather-repo",
-  "apps": []
+  "apps": [
+    {
+      "name": "VK",
+      "bundleIdentifier": "com.vk.vkclient",
+      "developerName": "Independent Developer",
+      "subtitle": "",
+      "localizedDescription": "Imported IPA",
+      "iconURL": "https://sharindog.github.io/feather-repo/icons/com.vk.vkclient.png",
+      "tintColor": "#6275EA",
+      "versions": [
+        {
+          "version": "8.120",
+          "date": "2026-11-04",
+          "downloadURL": "https://github.com/sharindog/feather-repo/releases/download/v1.0.0/VK_8.120.ipa",
+          "size": 171164524,
+          "localizedDescription": "Automated IPA import"
+        }
+      ]
+    }
+  ]
 }
