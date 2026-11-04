@@ -1,0 +1,10 @@
+{
+  "name": "Sharindog Feather Repo",
+  "identifier": "ru.sharindog.featherrepo",
+  "sourceURL": "https://sharindog.github.io/feather-repo/apps.json",
+  "subtitle": "Personal IPA catalog",
+  "description": "Public IPA catalog for Feather",
+  "iconURL": "https://raw.githubusercontent.com/claration/feather/main/Images/Feather.png",
+  "website": "https://github.com/sharindog/feather-repo",
+  "apps": []
+}
